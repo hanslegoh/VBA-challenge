@@ -1,0 +1,22 @@
+# Incorporate the random library
+import random
+
+# Print Title
+print("Let's Play Coin Flip!")
+
+# Specify the three options
+options = ["Heads", "Tails"]
+
+# Computer Selection
+computer_choice = random.choice(options)
+
+# User Selection
+user_choice = input("Make your Choice: Heads or Tails? ")
+
+# Run Conditionals
+if user_choice == computer_choice:
+    print("You win !!")
+else:
+    print("Other side :()")
+
+    #checking 
