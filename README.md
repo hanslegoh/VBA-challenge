@@ -11,6 +11,6 @@ Obtaining the row count with ```.End(xLUp)``` at line 59 was sourced from ```cen
 
 The structure of the ```if``` statement at line 68 was sourced from ```credit_charges``` exercise from class.
 
-The color index and ```interior.colorindex``` at lines 81 and 83 were sourced from ```grader``` exercise from class.
+The color index and ```interior.colorindex``` at lines 81, 83, 90, and 92 were sourced from ```grader``` exercise from class.
 
 The ```formatpercent``` at lines 87, 92, and 96 was sourced from a Stack Overflow thread.
