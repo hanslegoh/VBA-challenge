@@ -1,5 +1,5 @@
 # VBA-challenge
-Data Science Bootcamp Module 2 Challenge
+## Data Science Bootcamp Module 2 Challenge
 
 Code Sources and Locations:
 
