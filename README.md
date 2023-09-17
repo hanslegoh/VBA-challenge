@@ -1,7 +1,7 @@
 # VBA-challenge
-## Data Science Bootcamp Module 2 Challenge
+**Data Science Bootcamp Module 2 Challenge**
 
-Code Sources and Locations:
+## Code Sources and Locations:
 
 The largest for loop that begins at line 22, which loops through every sheet in the workbook, was sourced from ```census_data_2016-2019_pt2``` exercise from class.
 
